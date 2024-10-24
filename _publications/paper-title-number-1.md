@@ -1,5 +1,4 @@
 ---
-pagetitle: "Journal Articles"
 title: "The Effect of Mobile Navigation Factors on Wayfinding Performance and Spatial Knowledge Acquisition"
 collection: publications
 category: manuscripts
