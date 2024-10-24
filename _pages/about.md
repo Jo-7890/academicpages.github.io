@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third year graduate student from [East China Normal University](https://www.ecnu.edu.cn/), majoring in human factor engineering and user experience. I graduated from [Zhejiang University](https://www.zju.edu.cn/), majoring in applied psychology. My research interest includes human factor engineering, navigation design, and behavior modelling.
 
-I'm planning the applicant for a doctoral program in the field of human factor engineering. You can find my CV here: [Yu's Curriculum Vitae](../assets/CV_yujiang_new.pdf).
+I'm planning the applicant for a doctoral program in the field of human factor engineering. You can find my CV here: [Yu's Curriculum Vitae](https://jo-7890.github.io/academicpages.github.io/assets/CV_yujiang_new.pdf).
 
 Navigation design in wayfinding
 ======
