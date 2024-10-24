@@ -44,8 +44,6 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  The impact of mobile navigation factors on way-finding performance and spatial knowledge acquisition, Yu Jiang, Xuechen Han, Huimin Li, Jiaxin Wu, Huicong Fang* (Journal of Psychological Science, Accepted)
   
 
