@@ -16,20 +16,20 @@ Education
 
 Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-now: Academic Pages Collaborator
+  * East China Normal University
+  * Duties includes: Used Unity 3D to simulate real life navigating environments and conducted experiments with over 100 participants. Processed data through SPSS, finding that positive feedback can directly improve participants’ self-efficacy, thus contributing to better way finding performance. Research results have been accepted by Journal of Psychological Science and were under review
+  * Supervisor: Prof.Huicong Fang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023-2024: Research Assistant
+  * Tsinghua University
+  * Duties included: Collaborated in designing encoding principles(color, texture.etc.), resulting in an increase in processing situations efficiency. Authored encoding principles of key information to improve situation awareness based on experiments results
+  * Supervisor: Prof.Changxu Wu
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022-2023: Research Assistant
+  * Chinese Academy Sciences, Institute of Psychology
+  * Duties included: Identified factors that influence safe driving behaviors including physiological ability, psychological ability, environment, working and social relationship. Authored mental health indicators and literature reviews
+  * Supervisor: Prof.Jingyu Zhang
   
 Skills
 ======
