@@ -1,5 +1,6 @@
 ---
-title: "The Effect of Mobile Navigation Factors on Wayfinding Performance and Spatial Knowledge Acquisition"
+title: "Journal Articles"
+paper title: "The Effect of Mobile Navigation Factors on Wayfinding Performance and Spatial Knowledge Acquisition"
 collection: publications
 category: manuscripts
 permalink: https://jo-7890.github.io/academicpages.github.io/_publications/paper-title-number-1
