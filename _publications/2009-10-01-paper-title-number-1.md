@@ -8,7 +8,7 @@ In Experiment 1, 96 participants (48 males, 48 females) were recruited. Initiall
 The innovations of this article are as follows: Firstly, this study has refined the spatial knowledge measurement task and established a comprehensive measurement task for three types of spatial knowledge, thus providing new ideas for reducing measurement errors and conducting measurements systematically and efficiently. Secondly, this study, based on the spatial reference framework theory, found that the influence of mobile navigation factors on spatial knowledge learning and wayfinding performance is conditional. When navigation factors facilitate individuals to process environmental information with a consistent reference framework, it promotes the acquisition of route knowledge.'
 date: 2024-09
 venue: 'Journal of Psychological Science 心理科学 CSSCI'
-paperurl: 'https://jo-7890.github.io/academicpages.github.io/files/paper1.pdf'
+paperurl: 'https:/jo-7890.github.io/academicpages.github.io/files/paper1.pdf'
 citation: accepted and not published
 ---
 
