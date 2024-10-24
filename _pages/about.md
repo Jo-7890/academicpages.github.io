@@ -16,5 +16,7 @@ Navigation design in wayfinding
 Wayfinding is a crucial process for individuals to navigate and explore their environment in daily life. When compared to the traditional use of paper maps, modern navigation aids have been found to hinder individuals' environmental spatial knowledge. Previous researches have shown that navigation factors, such as navigation mode and scale, impact how individuals perceive and process spatial information. For instance, the user-aligned mode helps individuals build an egocentric representation of space, while the north-on-top mode promotes the formation of an allocentric representation. Additionally, small-scale maps assist in establishing spatial relationships between objects using an allocentric representation, while large-scale maps provide a perspective of nearby space, facilitating an egocentric representation. 
 
 However, there is a trade-off between wayfinding performance and spatial knowledge acquisition. To address this trade-off, my previous study aims to investigate which combination of navigation factors best supports spatial knowledge acquisition. 
-(https://jo-7890.github.io/academicpages.github.io/image/navigation1.png)
-(https://jo-7890.github.io/academicpages.github.io/image/navigation2.png).
+excerpt: "Short description of portfolio item number 1<br/><img src='https://jo-7890.github.io/academicpages.github.io/images/navigation1.png'>"
+collection: portfolio
+excerpt: "Short description of portfolio item number 1<br/><img src='https://jo-7890.github.io/academicpages.github.io/images/navigation2.png'>"
+collection: portfolio
