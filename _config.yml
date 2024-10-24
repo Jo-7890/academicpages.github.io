@@ -24,7 +24,7 @@ author:
   avatar           : "Yu jiang.png"
   name             : "Yu Jiang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "China"
   uri              : "https://jo-7890.github.io/academicpages.github.io/"
   email            : "jyuu2024@gmail.com" 
