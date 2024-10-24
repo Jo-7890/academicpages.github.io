@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Yu's academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year graduate student from [East China Normal University] (https://www.ecnu.edu.cn/), majoring in human factor engineering and user experience. I graduated from [Zhejiang University] (https://www.zju.edu.cn/), majoring in applied psychology. My research interest includes human factor engineering, navigation design, and behavior modelling.
+I'm a third year graduate student from [East China Normal University](https://www.ecnu.edu.cn/), majoring in human factor engineering and user experience. I graduated from [Zhejiang University](https://www.zju.edu.cn/), majoring in applied psychology. My research interest includes human factor engineering, navigation design, and behavior modelling.
 
-I'm planning the applicant for a doctoral program in the field of human factor engineering. You can find my CV here: [Yu's Curriculum Vitae](../assets/CV_yujiang_new.pdf)
+I'm planning the applicant for a doctoral program in the field of human factor engineering. You can find my CV here: [Yu's Curriculum Vitae](../assets/CV_yujiang_new.pdf).
 
 A data-driven personal website
 ======
