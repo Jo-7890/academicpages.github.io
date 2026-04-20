@@ -7,13 +7,78 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year graduate student from [East China Normal University](https://www.ecnu.edu.cn/), majoring in human factor engineering and user experience. I graduated from [Zhejiang University](https://www.zju.edu.cn/), majoring in applied psychology. My research interest includes human factor engineering, navigation design, and behavior modelling.
+## 👋 About Me
 
-I'm planning the applicant for a doctoral program in the field of human factor engineering. You can find my CV here: [Yu's Curriculum Vitae](https://jo-7890.github.io/academicpages.github.io/assets/CV_yujiang_new.pdf).
+I am a third-year PhD student in the [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/), supervised by [Professor Calvin K. L. Or](https://www.dase.hku.hk/people/c-k-l-or).  
 
-Navigation design in wayfinding
-======
-Wayfinding is a crucial process for individuals to navigate and explore their environment in daily life. When compared to the traditional use of paper maps, modern navigation aids have been found to hinder individuals' environmental spatial knowledge. Previous researches have shown that navigation factors, such as navigation mode and scale, impact how individuals perceive and process spatial information. For instance, the user-aligned mode helps individuals build an egocentric representation of space, while the north-on-top mode promotes the formation of an allocentric representation. Additionally, small-scale maps assist in establishing spatial relationships between objects using an allocentric representation, while large-scale maps provide a perspective of nearby space, facilitating an egocentric representation. 
+My current research focuses on **healthcare human factors and human decision making**, particularly how individuals—especially older adults—evaluate and respond to AI-generated health information in high-risk contexts.
 
-However, there is a trade-off between wayfinding performance and spatial knowledge acquisition. To address this trade-off, my previous study aims to investigate which combination of navigation factors best supports spatial knowledge acquisition. 
-<img src='https://jo-7890.github.io/academicpages.github.io/images/navigation1.png'>"
+---
+
+## 🎓 Education
+
+- **PhD in Data and Systems Engineering**  
+  [The University of Hong Kong](https://www.hku.hk/)  
+  *Supervisor: Prof. Calvin K. L. Or*
+
+- **M.S. in Human Factors Engineering & User Experience**  
+  [East China Normal University](https://www.ecnu.edu.cn/)
+
+- **B.S. in Applied Psychology**  
+  [Zhejiang University](https://www.zju.edu.cn/)
+
+---
+
+## 🔬 Research
+
+### 🧠 PhD Research: Healthcare Human Factors & AI
+
+My PhD research examines how people evaluate **AI-generated health information**, focusing on the cognitive and behavioral processes underlying:
+
+- Credibility judgment  
+- Confidence formation  
+- Verification behavior  
+- Belief updating  
+
+This work aims to support the design of **safe, adaptive, and human-centered AI assistants** for healthcare decision-making.
+
+📌 **Recent Work**  
+- *Understanding how older adults evaluate AI-generated health information*  
+  → Accepted at **ASPIRE—The HFES 70th International Annual Meeting (2026)**
+
+---
+
+### 🧭 Master Research: Navigation Design & Wayfinding
+
+Wayfinding is a fundamental process that enables individuals to navigate and explore their environment. While modern navigation systems improve efficiency, they may reduce opportunities for acquiring spatial knowledge.
+
+My previous research investigated how **navigation design factors** influence spatial cognition, including:
+
+- Map orientation (user-aligned vs. north-up)  
+- Map scale (large-scale vs. small-scale)  
+- Egocentric vs. allocentric spatial representations  
+
+This work explored the trade-off between **navigation performance and spatial learning**, aiming to identify optimal design combinations.
+
+📌 **Publication**  
+- *Navigation design and spatial knowledge acquisition*  
+  → **Journal of Psychological Science, 2024, 47(6), 1351–1362**
+
+<img src='https://jo-7890.github.io/academicpages.github.io/images/navigation1.png'>
+
+---
+
+## 📄 CV
+
+You can find my CV here:  
+👉 [Yu's Curriculum Vitae](https://jo-7890.github.io/academicpages.github.io/assets/CV_yujiang_new.pdf)
+
+---
+
+## 🔍 Research Interests
+
+- Healthcare Human Factors  
+- Human–AI Interaction  
+- AI-assisted Decision Making  
+- Behavior Modelling  
+- Navigation Design & Spatial Cognition  
