@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## 👋 About Me
 
 I am a third-year PhD student in the [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/), supervised by [Professor Calvin K. L. Or](https://www.dase.hku.hk/people/c-k-l-or).  
 
