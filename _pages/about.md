@@ -7,34 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-<div class="home-hero">
-  <div class="hero-eyebrow"><span class="status-dot"></span> HUMAN FACTORS · HEALTHCARE · HUMAN–AI INTERACTION</div>
-  <h1>Designing human-centered technology for better decisions.</h1>
-  <p class="hero-lede">I am <strong>Yu Jiang</strong>, a <strong>second-year PhD student</strong> in the <a href="https://www.dase.hku.hk/">Department of Data and Systems Engineering</a> at <a href="https://www.hku.hk/">The University of Hong Kong</a>, advised by <a href="https://www.dase.hku.hk/people/c-k-l-or">Prof. Calvin K. L. Or</a>.</p>
-  <p>I study how people understand, evaluate, and act on information in complex environments—and how interactive technologies can better support human judgment, especially in healthcare.</p>
-  <div class="hero-actions"><a class="hero-button primary" href="{{ '/publications/' | relative_url }}">Explore publications <span aria-hidden="true">↗</span></a><a class="hero-button secondary" href="{{ '/cv/' | relative_url }}">View CV <span aria-hidden="true">↗</span></a><a class="hero-text-link" href="mailto:yujane@connect.hku.hk">Get in touch ↗</a></div>
+<div class="academic-home">
+
+<h1>About Me</h1>
+<p>I am <strong>Yu Jiang</strong>, a second-year PhD student in the <a href="https://www.dase.hku.hk/">Department of Data and Systems Engineering</a> at <a href="https://www.hku.hk/">The University of Hong Kong</a>, advised by <a href="https://www.dase.hku.hk/people/c-k-l-or">Prof. Calvin K. L. Or</a>.</p>
+<p>My research lies at the intersection of <strong>human–computer interaction, human factors, and healthcare</strong>. I am interested in how people evaluate information, make decisions, and interact with AI-enabled systems, as well as how technology can be designed to better support human judgment.</p>
+<p>Before joining HKU, I studied Human Factors Engineering and User Experience at East China Normal University and Applied Psychology at Zhejiang University.</p>
+
+<h2>Research Interests</h2>
+<p>My broad interests include <strong>human–AI interaction, human-centered AI, healthcare decision-making, and cognitive aspects of technology use</strong>. In particular, I am interested in:</p>
+<ul class="interest-list">
+<li>How people evaluate, trust, and use AI-generated information and recommendations.</li>
+<li>How human cognitive processes and individual differences shape decisions in health-related contexts.</li>
+<li>How interactive systems can provide understandable, timely, and appropriate decision support.</li>
+</ul>
+
+<h2>News</h2>
+<div class="home-news">
+  <div class="news-item"><span class="news-date">2026.10</span><span>Presented research on older adults’ evaluation of AI-generated health information at <strong>HFES ASPIRE 2026</strong>. <a href="https://doi.org/10.1177/10711813261498726">[DOI]</a></span></div>
 </div>
 
-<section class="home-section">
-<div class="section-kicker">RESEARCH FOCUS</div>
-<h2>At the intersection of people, information, and intelligent systems</h2>
-<p class="section-intro">My work draws on human factors, cognitive psychology, and human–computer interaction to understand decision processes and inform the design of trustworthy, usable systems.</p>
-<div class="research-grid">
-  <div class="research-card"><div class="card-index">01 /</div><h3>Human–AI Interaction</h3><p>How people interpret AI-generated information, calibrate their trust, and collaborate with intelligent systems.</p></div>
-  <div class="research-card"><div class="card-index">02 /</div><h3>Healthcare Decision-Making</h3><p>Human judgment, information evaluation, and decision support in health-related contexts.</p></div>
-  <div class="research-card"><div class="card-index">03 /</div><h3>Human Factors &amp; Cognition</h3><p>Cognitive and behavioral processes that shape technology use, from information seeking to spatial navigation.</p></div>
+<h2>Selected Publications</h2>
+<p class="pub-caption">A complete list is available on my <a href="{{ '/publications/' | relative_url }}">Publications page</a>.</p>
+<div class="home-pubs">
+  <div class="pub-item"><span class="pub-year">2026</span><div><div class="pub-title">Research on older adults’ evaluation of AI-generated health information</div><div class="pub-meta">Proceedings of the Human Factors and Ergonomics Society Annual Meeting (HFES ASPIRE 2026)</div><div class="pub-links"><a href="https://doi.org/10.1177/10711813261498726">[DOI]</a> <a href="{{ '/publications/' | relative_url }}">[Publications]</a></div></div></div>
+  <div class="pub-item"><span class="pub-year">2024</span><div><div class="pub-title">The Effect of Mobile Navigation Factors on Wayfinding Performance and Spatial Knowledge Acquisition</div><div class="pub-meta"><strong>Yu Jiang</strong>, Xuechen Han, Huimin Li, Jiaxin Wu, Huicong Fang · <em>Journal of Psychological Science</em>, 47(6), 1351–1362.</div><div class="pub-links"><a href="{{ '/files/paper1.pdf' | relative_url }}">[PDF]</a></div></div></div>
 </div>
-</section>
 
-<section class="home-section publication-feature">
-<div class="section-kicker">SELECTED WORK · 2026</div>
-<h2>Recent publication</h2>
-<div class="featured-paper"><span class="paper-kind">HFES ASPIRE 2026 · CONFERENCE PROCEEDINGS</span><h3>Research on older adults’ evaluation of AI-generated health information</h3><p>Presented at the Human Factors and Ergonomics Society International Annual Meeting (ASPIRE 2026).</p><div class="paper-links"><a href="https://doi.org/10.1177/10711813261498726">Publisher / DOI ↗</a><a href="{{ '/publications/' | relative_url }}">All publications ↗</a></div><div class="paper-doi">DOI: 10.1177/10711813261498726</div></div>
-</section>
-
-<section class="home-section">
-<div class="section-kicker">BACKGROUND</div>
-<h2>Education &amp; previous work</h2>
-<div class="education-list"><div class="education-item"><div class="education-degree">PhD · Data and Systems Engineering <span>Year 2</span></div><div>The University of Hong Kong</div></div><div class="education-item"><div class="education-degree">Master’s · Human Factors Engineering &amp; User Experience</div><div>East China Normal University</div></div><div class="education-item"><div class="education-degree">Bachelor’s · Applied Psychology</div><div>Zhejiang University</div></div></div>
-<p class="background-note">My earlier research examined mobile navigation design, wayfinding performance, and spatial knowledge acquisition—a continuing interest in how interfaces shape cognition and behavior.</p>
-</section>
+<h2>Contact</h2>
+<p>Department of Data and Systems Engineering, The University of Hong Kong<br>
+Email: <a href="mailto:yujane@connect.hku.hk">yujane@connect.hku.hk</a> · <a href="{{ '/cv/' | relative_url }}">Curriculum Vitae</a></p>
+</div>
