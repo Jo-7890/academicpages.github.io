@@ -31,7 +31,7 @@ redirect_from:
 
   <div class="section-header-row"><h2>Selected Publications</h2><a href="{{ '/publications/' | relative_url }}">View all publications ↗</a></div>
   <div class="home-pubs">
-    <article class="pub-card"><div class="pub-card-top"><span class="pub-year">2026</span><span class="pub-type">Conference Proceedings</span></div><h3>Research on older adults’ evaluation of AI-generated health information</h3><p class="pub-meta"><em>Proceedings of the Human Factors and Ergonomics Society Annual Meeting (HFES ASPIRE 2026)</em></p><div class="pub-links"><a href="https://doi.org/10.1177/10711813261498726">DOI ↗</a></div></article>
+    <article class="pub-card"><div class="pub-card-top"><span class="pub-year">2026</span><span class="pub-type">Conference Proceedings</span></div><h3>Understanding Older Adults’ Evaluation of AI-Generated Health Information</h3><p class="pub-meta"><strong>Yu Jiang</strong>, Calvin Or · <em>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</em> (2026).</p><div class="pub-links"><a href="https://doi.org/10.1177/10711813261498726">DOI ↗</a></div></article>
     <article class="pub-card"><div class="pub-card-top"><span class="pub-year">2024</span><span class="pub-type">Journal Article</span></div><h3>The Effect of Mobile Navigation Factors on Wayfinding Performance and Spatial Knowledge Acquisition</h3><p class="pub-meta"><strong>Yu Jiang</strong>, Xuechen Han, Huimin Li, Jiaxin Wu, Huicong Fang · <em>Journal of Psychological Science</em>, 47(6), 1351–1362.</p><div class="pub-links"><a href="{{ '/files/paper1.pdf' | relative_url }}">PDF ↗</a></div></article>
   </div>
 
