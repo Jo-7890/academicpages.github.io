@@ -1,15 +1,15 @@
 ---
-title: "Research on Older Adults’ Evaluation of AI-Generated Health Information (ASPIRE 2026)"
+title: "Understanding Older Adults’ Evaluation of AI-Generated Health Information"
 collection: publications
 category: conference
 permalink: /publication/2026-hfes-aspire/
-date: '2026-10-19'
-venue: 'Proceedings of the Human Factors and Ergonomics Society Annual Meeting (HFES ASPIRE 2026)'
+date: '2026-10-29'
+venue: 'Proceedings of the Human Factors and Ergonomics Society Annual Meeting'
 paperurl: 'https://doi.org/10.1177/10711813261498726'
-citation: 'ASPIRE 2026 conference proceedings. DOI: 10.1177/10711813261498726. (Full bibliographic title and authors to be verified against the publisher record.)'
-excerpt: 'Research on how older adults evaluate AI-generated health information. Published in the HFES annual meeting proceedings.'
+citation: 'Jiang, Y., & Or, C. (2026). Understanding Older Adults’ Evaluation of AI-Generated Health Information. Proceedings of the Human Factors and Ergonomics Society Annual Meeting. https://doi.org/10.1177/10711813261498726'
+excerpt: 'Examines how older adults assess AI-generated health information, including credibility and adoption judgments.'
 ---
 
-[Publisher record and DOI](https://doi.org/10.1177/10711813261498726).
-
-*Bibliographic metadata note: the exact publisher title, author order, pages, and database indexing status should be confirmed directly from the SAGE article record before listing them.*
+**Authors:** Yu Jiang, Calvin Or  
+**Published online:** October 29, 2026  
+**DOI:** [10.1177/10711813261498726](https://doi.org/10.1177/10711813261498726)
