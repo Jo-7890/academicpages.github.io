@@ -11,7 +11,7 @@ locale                   : "China"
 title                    : "Yu Jiang"
 title_separator          : "-"
 name                     : &name "Yu Jiang"
-description              : &description "personal description"
+description              : &description "Yu Jiang | PhD Researcher in Human Factors, Healthcare and Human–AI Interaction"
 url                      : "https://jo-7890.github.io/academicpages.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,8 +24,8 @@ author:
   avatar           : "Yu jiang.png"
   name             : "Yu Jiang"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "China"
+  bio              : "Second-year PhD student · Human Factors & Human–AI Interaction"
+  location         : "The University of Hong Kong"
   uri              : "https://jo-7890.github.io/academicpages.github.io/"
   email            : "yujane@connect.hku.hk" 
 
@@ -33,6 +33,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  conference:
+    title: 'Conference Proceedings'
   manuscripts:
     title: 'Journal Articles'    
 
