@@ -12,9 +12,9 @@ title                    : "Yu Jiang"
 title_separator          : "-"
 name                     : &name "Yu Jiang"
 description              : &description "Yu Jiang | PhD Researcher in Human Factors, Healthcare and Human–AI Interaction"
-url                      : "https://jo-7890.github.io/academicpages.github.io/"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : "https://jo-7890.github.io"
+baseurl                  : "/academicpages.github.io" # GitHub Pages project site
+repository               : "Jo-7890/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
